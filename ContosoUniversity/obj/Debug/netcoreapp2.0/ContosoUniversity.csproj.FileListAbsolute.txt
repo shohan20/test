@@ -1,0 +1,11 @@
+C:\Users\shorif\OneDrive\assignment\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+C:\Users\shorif\OneDrive\assignment\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+C:\Users\shorif\OneDrive\assignment\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\shorif\OneDrive\assignment\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\shorif\OneDrive\assignment\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+C:\Users\shorif\OneDrive\assignment\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\shorif\OneDrive\assignment\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\shorif\OneDrive\assignment\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\shorif\OneDrive\assignment\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\shorif\OneDrive\assignment\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+C:\Users\shorif\OneDrive\assignment\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
